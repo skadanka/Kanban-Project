@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-project-7988e": {
+      "hosting": {
+        "first-project": [
+          "angular-project-7988e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-project-7988e"
+  }
+}
